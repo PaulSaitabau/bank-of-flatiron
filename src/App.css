@@ -14,7 +14,7 @@
 
 /* Styles for the header */
 .App {
-  background-color: hsl(220, 90%, 49%);
+  background-color: hsl(180, 2%, 45%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
